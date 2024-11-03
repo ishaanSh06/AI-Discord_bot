@@ -8,7 +8,7 @@ export async function answer(message, client) {
         }
         
         if (question === "Who created you?") {
-            message.reply("```Ishaan Sharma (askishaan.sh@gmail.com)```\nhttps://jeherillajanwar.github.io/\nhttps://github.com/JeherillaJanwar/\nhttps://g.dev/JeherillaJanwar/ ");
+            message.reply("```Ishaan Sharma (askishaan.sh@gmail.com)```\nhttps://ishaanSh06.github.io/\nhttps://github.com/ishaanSh06/\nhttps://g.dev/ishaanSh06/ ");
         }
         
         if (question === "What is your name?") {

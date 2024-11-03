@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JeherillaJanwar/AI-Discord_bot.git"
+    "url": "git+https://github.com/ishaanSh06/AI-Discord_bot.git"
   },
   "keywords": [
     "ai",
     "discord",
     "bot"
   ],
-  "author": "JeherillaJanwar",
+  "author": "ishaanSh06",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^12.5.3",

@@ -8,7 +8,7 @@ artificial intelligence discord bot
 ```
 mkdir openai-discord-bot
 cd openai-discord-bot
-git clone https://github.com/JeherillaJanwar/AI-Discord_bot.git
+git clone https://github.com/ishaanSh06/AI-Discord_bot.git
 ```
 
 #### 2) Create discord bot and OpenAI account
